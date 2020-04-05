@@ -2,3 +2,5 @@
 # I will exclude jpeg files
 
 *.jpeg
+
+my_new_folder/
